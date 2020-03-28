@@ -1,1 +1,3 @@
-theme: jekyll-theme-cayman
+name: Lachlan Ng
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
