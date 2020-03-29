@@ -1,6 +1,7 @@
 # Jekyll Files
 _site/
 .jekyll-cache/
+_drafts/
 
 # Ruby Gem
 Gemfile.lock
